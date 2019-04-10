@@ -1,0 +1,17 @@
+/*
+* Kayla Hughes
+* Date
+* Project Name
+*/
+*{
+
+}
+/* Body attributes here */
+h1 {width: 20%; margin: auto;}
+body { background-color:lightblue; 
+    margin: auto; width: 85%; /* This makes all h1 headings have a width of 20% an margin set to auto */
+}
+img {Width: 500px;} /* This makes all images have a width of 500 px */
+#flagfig {float: right;} /* This makes the flag image float to the right side of the page */
+table, th, td {border: 2px, solid;} /* This makes the table's heading and border lines 2 px and solid */
+table {border-collapse: collapse;} /* This makes the border of the table have only one line instead of two */
